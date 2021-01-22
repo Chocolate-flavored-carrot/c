@@ -25,4 +25,4 @@ int main(void)
 6.在main int function char = 中，那些是C语言的关键字
 C语言的关键字是int 和 char int表示整型数据 char表示字符类型 main是主函数的函数名，并不是关键字！！
 但是主函数使用了这个名字，因此它不能作为标识符。=是运算符，表示赋值。 function 是未定义的标识符。
-7.
+7.8.9.略
